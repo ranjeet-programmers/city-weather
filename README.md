@@ -44,3 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Netlify Deploy Details
+
+Admin URL: https://app.netlify.com/sites/actimize-city-weather
+URL: https://actimize-city-weather.netlify.app
+Site ID: f10e8d72-01fa-4208-8825-f980e1437b8a
+
+Logs:https://app.netlify.com/sites/actimize-city-weather/deploys/62b93b771aa56f51d105c3c3
+Unique Deploy URL: https://62b93b771aa56f51d105c3c3--actimize-city-weather.netlify.app  
+Website URL:https://actimize-city-weather.netlify.app
